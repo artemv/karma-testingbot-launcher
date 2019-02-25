@@ -6,13 +6,15 @@
 
 > Run your tests on the [TestingBot](https://testingbot.com/) browser cloud!
 
+## This fork
+It fixes dependencies issues (cryptiles) re vulnerability, just by upgrading testingbot-api. 
 
 ## Installation
 
 Install `karma-testingbot-launcher` as a `devDependency` in your package.json:
 
 ```bash
-npm install karma-testingbot-launcher --save-dev
+npm install @artemv/karma-testingbot-launcher --save-dev
 ```
 
 ## Usage
