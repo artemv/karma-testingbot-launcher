@@ -1,6 +1,6 @@
 {
   "name": "@artemv/karma-testingbot-launcher",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A Karma plugin. Launch any browser on TestingBot!",
   "main": "index.js",
   "scripts": {
