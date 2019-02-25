@@ -3509,7 +3509,7 @@ wd@^1.1.3:
     underscore.string "3.3.4"
     vargs "0.1.0"
 
-wd@^1.2.0:
+wd@^1.11.1:
   version "1.11.1"
   resolved "https://registry.yarnpkg.com/wd/-/wd-1.11.1.tgz#21a33e21977ad20522bb189f6529c3b55ac3862c"
   integrity sha512-XNK6EbOrXF7cG8f3pbps6mb/+xPGZH2r1AL1zGJluGynA/Xt6ip1Tvqj2AkavyDFworreaGXoe+0AP/r7EX9pg==

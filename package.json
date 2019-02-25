@@ -1,6 +1,6 @@
 {
   "name": "@artemv/karma-testingbot-launcher",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A Karma plugin. Launch any browser on TestingBot!",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,7 @@
     "q": "^1.5.0",
     "testingbot-tunnel-launcher": "1.1.1",
     "testingbot-api": "^1.0.6",
-    "wd": "^1.2.0"
+    "wd": "^1.11.1"
   },
   "license": "MIT",
   "devDependencies": {
