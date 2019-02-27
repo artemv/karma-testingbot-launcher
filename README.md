@@ -14,7 +14,7 @@ It fixes dependencies issues (cryptiles) re vulnerability, just by upgrading tes
 Install `karma-testingbot-launcher` as a `devDependency` in your package.json:
 
 ```bash
-npm install @artemv/karma-testingbot-launcher --save-dev
+yarn add --dev "artemv/karma-testingbot-launcher#^1.0.5-pre.1"
 ```
 
 ## Usage
